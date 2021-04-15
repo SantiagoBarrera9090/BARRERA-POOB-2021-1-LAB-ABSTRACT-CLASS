@@ -1,0 +1,16 @@
+Santiago Barrera 
+
+- ¿Cuál es la relación entre `Circle` y `Shape`?
+La clase Circle esta heredando los metodos de Shape, los atributo no ya que estan privados y al heredar necesitariamos cambiar su modificador de acceso 
+
+
+- ¿Cuál es la relación entre `Cylinder` y `Shape`?
+Cuando la clase Cylinder hereda de la clase Circle automaticamente hereda los metodos de la super clase Shape
+
+
+- ¿Cuál es la relación entre `Circle` y `GeometricShape2D`?
+La relacion de la clase Circle con la interfaz GeometricShape2D es que Circle implementa los metodos de GeometricShape2D 
+
+
+- ¿Cuál es la relación entre `Cylinder` y `GeometricShape3D`?
+La relacion de la clase Cylinder con la interfaz GeometricShape3D es que Cylinder implementa los metodos de GeometricShape3D
